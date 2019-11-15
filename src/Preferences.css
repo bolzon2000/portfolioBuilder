@@ -1,0 +1,33 @@
+.preferencesLayout {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  flex-wrap: nowrap;
+  padding:20px;
+  padding-top:90px;
+  max-width: 800px;
+}
+
+.preferencesRow {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  flex-grow: 1;
+  flex-wrap: nowrap;
+  padding-top:10px;
+  padding-bottom:10px;
+  background-color:#ffffff;
+  border-bottom: 1px solid #cccccc
+}
+
+.paddingTop20px {
+  padding-top:20px;
+}
+
+a {
+  hover: #cccccc;
+  text-decoration: none;
+  color: #1890ff;
+  font-style: Helvetica;
+}

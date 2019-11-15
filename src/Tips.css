@@ -1,0 +1,17 @@
+.tipsLayout {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  flex-wrap: nowrap;
+  padding:20px;
+  padding-top:90px;
+
+}
+
+.tip {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 14px;
+  border-bottom: 1px solid #cccccc;
+
+}

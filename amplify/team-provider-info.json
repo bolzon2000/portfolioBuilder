@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "portfoliobuilder-dev-20190902170840-authRole",
+            "UnauthRoleArn": "arn:aws:iam::676550729376:role/portfoliobuilder-dev-20190902170840-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::676550729376:role/portfoliobuilder-dev-20190902170840-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "portfoliobuilder-dev-20190902170840-deployment",
+            "UnauthRoleName": "portfoliobuilder-dev-20190902170840-unauthRole",
+            "StackName": "portfoliobuilder-dev-20190902170840",
+            "StackId": "arn:aws:cloudformation:us-west-2:676550729376:stack/portfoliobuilder-dev-20190902170840/fdab5a50-cdde-11e9-bbfc-0ae858e09580"
+        },
+        "categories": {
+            "auth": {
+                "cognito74478553": {}
+            }
+        }
+    }
+}

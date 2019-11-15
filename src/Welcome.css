@@ -1,0 +1,27 @@
+
+
+.standardLayout {
+  background-color: #1d1e22;
+  min-height: 100vh;
+  min-width: 100vw;
+  padding:20px;
+}
+.welcomeLayout {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    justify-content: space-between;
+    align-items: center;;
+    padding:20px !important;
+
+}
+
+.appTitle {
+    color: #d4d4dc;
+    font-size: 36px;
+}
+
+.bodyText {
+    color: #feda6a;
+    font-size: 36px;
+}

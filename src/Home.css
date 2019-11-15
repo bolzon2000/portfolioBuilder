@@ -1,0 +1,10 @@
+
+.homeLayout {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  flex-wrap: nowrap;
+  padding:20px;
+  padding-top:90px;
+
+}

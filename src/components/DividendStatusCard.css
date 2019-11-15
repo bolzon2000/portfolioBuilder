@@ -1,0 +1,36 @@
+.cardPadding {
+  padding-bottom:10px;
+}
+.cardContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  backgroundColor: #FFFFFF;
+  border: 1px solid #CCCCCC;
+  padding:5px;
+}
+
+.titleContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cardTitle {
+  font-size: 12px;
+}
+
+.symbol {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.payment {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.dateLabel {
+  font-size: 12px;
+}
